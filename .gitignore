@@ -1,0 +1,7 @@
+.vscode
+.sublime*
+.clion
+.somecodes
+cpp/test.cpp
+java/test.java
+py/test.py
