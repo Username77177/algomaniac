@@ -172,7 +172,7 @@ void insertionSort(int *array, int arraySize)
 {
 	for (int i = 1; i < arraySize; i++)
 	{
-		for (int j = i; j >= 0; j--)
+		for (int j = i - 1; j >= 0; j--)
 		{
 			if (array[i] < array[j])
 			{
